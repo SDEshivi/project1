@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  font-family: "Gilroy";
+}
+
+html,
+body {
+  height: 500%;
+  width: 500%;
+}
+
+#bulb {
+  height: 510px;
+  width: 150px;
+  overflow: hidden;
+  position: relative;
+}
+#bulb img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+button {
+  padding: 10px 30px;
+  font-size: 20px;
+  margin: 80px;
+}
+button {
+  padding: 10px 30px;
+  font-size: 20px;
+  margin: 80px;
+}
